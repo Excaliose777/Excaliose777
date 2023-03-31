@@ -1,4 +1,4 @@
-Hi 👋 My name is Alamin Abubakar and I'm a Frontend Developer with focus on design and functionality; while also paying attention to accessibility accross all devices. Looking to learn and improve on already set skills
+Hi there, My name is Alamin Abubakar and I'm a Frontend Developer with focus on design and functionality; while also paying attention to accessibility accross all devices. Looking to learn and improve on already set skills
 I have also have great interest in Blockchain Technology. I've been curious about the Blockchain Ecosystem for a long while now and decided to dip my toes in and it has been an interesting journey. 
 Looking forward to opportunities to learn and connect.
 
@@ -21,8 +21,3 @@ Looking forward to opportunities to learn and connect.
 * Remix IDE
 * Framer Motion
 * Smart Contract Development and Testing
-
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/alaminxab"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
